@@ -1,0 +1,3 @@
+Method,Best Cut Weight,Classical Optimum,Execution Environment
+Classical Max-Cut,12,12,Local Python
+QAOA Max-Cut,12,12,Local Aer Simulator

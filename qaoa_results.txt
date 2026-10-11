@@ -1,0 +1,15 @@
+Opti-Q: Quantum-Assisted Max-Cut Optimization
+
+Graph Nodes: 4
+Graph Edges: 5
+
+Optimized Gamma: 1.4
+Optimized Beta: 0.01
+
+Best Measured Cut Weight: 12
+Classical Optimum: 12
+
+Result:
+The QAOA experiment on the local quantum simulator
+found a measured solution matching the classical
+optimum for this graph.
